@@ -14,6 +14,6 @@
 <a href = "https://www.linkedin.com/in/lucashwangcuan/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
 <a href = "mailto:lucashcc8@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
 <a href = "https://www.instagram.com/lucashc8/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
-</div>
   
 ![Snake animation](https://github.com/Lhc128/Lhc128/blob/output/github-contribution-grid-snake.svg)
+</div>
