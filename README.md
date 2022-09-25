@@ -6,8 +6,8 @@
 
 <div>
   <a href = "https://github.com/Lhc128">
-  <img height = "180cm" src = "https://github-read-me-stats.vercel.app/api?username=Lhc128&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/
-  <img height = "180cm" src = "https://github-read-me-stats.vercel.app/api/top-langs/?username=Lhc128&slayout=compact&langs_count=16&theme=radical"/>
+  <img height = "180cm" src = "https://github-readme-stats.vercel.app/api?username=Lhc128&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/
+  <img height = "180cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Lhc128&slayout=compact&langs_count=16&theme=radical"/>
 </div>
 
 <div>
