@@ -7,7 +7,7 @@
 <div>
   <a href = "https://github.com/Lhc128">
   <img height = "180cm" src = "https://github-readme-stats.vercel.app/api?username=Lhc128&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height = "180cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Lhc128&layout=compact&langs_count=16&theme=radical"/>
+  <!--<img height = "180cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Lhc128&layout=compact&langs_count=16&theme=radical"/> -->
 </div>
 
 <div>
@@ -15,3 +15,5 @@
 <a href = "mailto:lucashcc8@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
 <a href = "https://www.instagram.com/lucashc8/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
 </div>
+  
+![Snake animation](https://github.com/Lhc128/Lhc128/blob/output/github-contribution-grid-snake.svg)
