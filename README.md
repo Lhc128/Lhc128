@@ -1,7 +1,6 @@
 ### E aí! Meu nome é Lucas Cuan, bem-vindo ao meu GitHub!!
 
 - 🔭 Estudante de Ciência de Dados
-- 👯 Diretor de Marketing da FGV Jr.
 - 📫 lucashcc8@gmail.com
 
 <div>
